@@ -33,8 +33,6 @@
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/rpi/raspberrypi" name="aharter/android_device_raspberrypi" />
-  <project path="device/rpi/raspberrypi/lib" name="aharter/userland" />
-  <project path="device/rpi/raspberrypi/lib/hwcomposer" name="aharter/razdroid-hwcomposer" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -258,6 +256,11 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
+  <project path="vendor/rpi/raspberrypi/gralloc" name="aharter/android_vendor_rpi_gralloc" />
+  <project path="vendor/rpi/raspberrypi/userland" name="aharter/android_vendor_rpi_userland" />
+  <project path="vendor/rpi/raspberrypi/libgralloc_dispmanx" name="aharter/android_vendor_rpi_libgralloc_dispmanx" />
+  <project path="vendor/rpi/raspberrypi/libgralloc_brcm" name="aharter/android_vendor_rpi_libgralloc_brcm" />
+  <project path="vendor/rpi/raspberrypi/libconvertformat" name="aharter/android_vendor_rpi_libconvertformat" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
