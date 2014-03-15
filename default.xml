@@ -271,6 +271,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
+  <project path="brcm_userlib" name="Razdroid/android_brcm_userlib" revision="master" />
 
   <project path="android" name="Razdroid/android" />
 </manifest>
