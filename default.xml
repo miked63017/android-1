@@ -261,6 +261,7 @@
   <project path="vendor/rpi/raspberrypi/libgralloc_dispmanx" name="Razdroid/android_vendor_rpi_libgralloc_dispmanx" />
   <project path="vendor/rpi/raspberrypi/libgralloc_brcm" name="Razdroid/android_vendor_rpi_libgralloc_brcm" />
   <project path="vendor/rpi/raspberrypi/libconvertformat" name="Razdroid/android_vendor_rpi_libconvertformat" />
+  <project path="vendor/rpi/raspberrypi/hwcomposer" name="vwarg/razdroid-hwcomposer" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
